@@ -45,7 +45,7 @@ pip install pandas numpy scikit-learn xgboost imbalanced-learn
 - Deploying the model as a web application for real-world usability.
 
 ## Contributors
-- **[Your Name]** – Data Science & Model Development
+- **Ashutosh Baheti** – Data Science & Model Development
 
 ## License
 This project is licensed under the MIT License. Feel free to use and modify as needed.
